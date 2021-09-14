@@ -38,7 +38,7 @@ for a in lii:
     print(li2)
     li2i.append(li2)
 print(li2i)
-#displaying plain text    hqvzg ukhet zfrll k ic zsedi arhu icifr l ljhme u mmuky mgyv wk amgry
+#displaying plain text    
 plain=''
 for a in li2i:
     plai = ''
